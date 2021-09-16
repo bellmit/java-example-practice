@@ -17,7 +17,7 @@
 
     <modules>
         <module>java-base</module>
-        <module>design-pattern</module>
+        <module>design-patterns</module>
         <module>multi-thread</module>
         <module>java8-practice</module>
         <module>daily-test</module>
